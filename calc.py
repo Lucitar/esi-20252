@@ -10,3 +10,6 @@ def div(a, b):
 
 def mut(a, b):
     return a * b
+
+def pot(a, b):
+    return a ** b
